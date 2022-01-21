@@ -16,9 +16,7 @@
   height: auto;
   width: medium 500px;
 }
-.navbar {
-  position: fixed;
-}
+
 .navbar ul li :hover {
   background-color: #9ab5ff;
 }
